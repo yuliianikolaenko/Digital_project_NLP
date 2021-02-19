@@ -18,5 +18,8 @@ The data consists of two files:
 <code>requirements.txt</code>: the required libraries and packages
 
 ### Credits
+Bastian Greshake Tzovaras <bastian.greshake-tzovaras@cri-paris.org> Long Term Fellow CRI Paris for providing the dataset.
+The Quantified Self website https://quantifiedself.com/ for data.
 
 ### Licensing
+MIT license 	mit
