@@ -22,4 +22,4 @@ Bastian Greshake Tzovaras <bastian.greshake-tzovaras@cri-paris.org> Long Term Fe
 The Quantified Self website https://quantifiedself.com/ for data.
 
 ### Licensing
-MIT license 	mit
+MIT license <code>mit</code>
