@@ -7,6 +7,7 @@ The project goal is to exlore the discourse of the presentations that people hav
 
 # The project steps
 ### Web scraping and dateset merging
+BeautifulSoup and requests scraping functions by 'class' :'transcript'
 ### Cleaning the text and preparing for the analysis
 Lower casing, removing stopwords (english language + additional) and noise, lemmatization, tokenization
 ### EDA
