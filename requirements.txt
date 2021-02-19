@@ -1,0 +1,82 @@
+# numerical computation
+import numpy as np
+import math
+from collections import Counter
+
+#web-scrapping 
+from bs4 import BeautifulSoup
+import requests
+from urllib3 import request
+
+
+import warnings
+warnings.filterwarnings("ignore",category=DeprecationWarning)
+
+
+# data processing/manipulation
+import pandas as pd
+pd.options.mode.chained_assignment = None
+import re
+from unidecode import unidecode 
+from pprint import pprint
+
+# data visualization
+import matplotlib.pyplot as plt
+%matplotlib inline
+from os import path
+from PIL import Image
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+import plotly.express as px
+import seaborn as sns
+from matplotlib import rc
+from matplotlib import gridspec
+import pyLDAvis
+import pyLDAvis.gensim
+import pyLDAvis.sklearn
+
+#for plotting images & adjusting colors
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+from PIL import Image
+
+
+# stopwords, tokenizer, stemmer
+import nltk  
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+from nltk.probability import FreqDist
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk.stem import WordNetLemmatizer 
+from nltk.corpus import wordnet
+
+# spell correction, lemmatization
+from textblob import TextBlob
+from textblob import Word
+
+# sklearn
+from sklearn.model_selection import train_test_split
+from sklearn.decomposition import LatentDirichletAllocation
+from sklearn.feature_extraction.text import CountVectorizer
+
+# Gensim
+import gensim
+import gensim.corpora as corpora
+from gensim.utils import simple_preprocess
+from gensim.models import CoherenceModel
+from gensim.parsing.preprocessing import STOPWORDS
+from gensim.parsing.preprocessing import remove_stopwords
+from gensim.corpora import Dictionary 
+from gensim.models.ldamodel import LdaModel
+
+
+# spacy for NLP
+import spacy
+from spacy import displacy
+import spacy.cli
+spacy.cli.download("en")
+from spacy.lang.en.stop_words import STOP_WORDS
+
+
+# Enable logging for gensim - optional
+import logging
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.ERROR)
