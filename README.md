@@ -3,7 +3,7 @@
 Text mining and NLP analysis on ‘The Quantified Self’ speeches transcripts.
 The project goal is to exlore the discourse of the presentations that people have given about their own self-research projects. 
 
-'The Quantified Self is an international community of users and makers of self-tracking tools who share an interest in “self-knowledge through numbers.” If you are tracking for any reason — to answer a health question, achieve a goal, explore an idea, or simply because you are curious — you can find help and support here.'
+'The Quantified Self is an international community of users and makers of self-tracking tools who share an interest in “self-knowledge through numbers.” If you are tracking for any reason - to answer a health question, achieve a goal, explore an idea, or simply because you are curious - you can find help and support here.'
 
 
 # Installation guide
