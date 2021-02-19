@@ -9,7 +9,7 @@ Text mining and NLP analysis on ‘The Quantified Self’ speeches transcripts
 The data consists of two files:
 <li><code>all_texts.txt</code>: dataset with 340 links to the transcrtipts, videos, topics and tools
   
-<code>final_data.csv</code>: the output dataframe with scraped transcripts, tools and topics
+<li><code>final_data.csv</code>: the output dataframe with scraped transcripts, tools and topics
 
 ### Credits
 
