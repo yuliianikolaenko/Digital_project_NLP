@@ -33,4 +33,5 @@ The data consists of two files:
 <li>The Quantified Self website https://quantifiedself.com/ for provided data
 
 ### Licensing
-MIT license <code>mit</code>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
